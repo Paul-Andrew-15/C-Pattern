@@ -13,7 +13,8 @@ Microsoft Visual Studio 2022
 3.Use for loop to print the rows , columns and space. 
 4.Use if-else condition inside the loop to print the values. 
 5.Use c = c * (i - j + 1) / j to print the inner value. 
-6.Using Console.write print the Pascal's triangle. 7.End the program.
+6.Using Console.write print the Pascal's triangle. 
+7.End the program.
 ```
 
 ## Program:
